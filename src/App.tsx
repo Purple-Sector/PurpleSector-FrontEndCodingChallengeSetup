@@ -12,7 +12,7 @@ function App() {
         minW={{ base: "650px" }}
       />
       <Text fontSize="5xl" fontWeight="medium">
-        Coding Challenge
+        Coding Challenge - Add your name here before the interview
       </Text>
     </Flex>
   );
